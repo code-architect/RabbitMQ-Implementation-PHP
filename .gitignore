@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+rabbitmq_server-3.8.2
+vendor

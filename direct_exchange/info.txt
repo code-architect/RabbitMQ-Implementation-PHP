@@ -1,0 +1,2 @@
+
+Direct exchange matches the key that is coming with the message, to the key that is provided at the time of queue binding.

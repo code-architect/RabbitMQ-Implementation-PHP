@@ -1,0 +1,2 @@
+In fanout exchange there is no condition, i.e. there is no key like direct exchange. So when the message will come from the producer
+it will pass the message to each and every queue that is bound with it. And from the queue it will go to the consume.
